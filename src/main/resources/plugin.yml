@@ -1,0 +1,7 @@
+name: Scarecrow
+version: '1.0.0'
+main: net.scarecrow.Scarecrow
+description: It is a simple plugin to protect farmland
+api-version: '1.21'
+authors: [ ok4m0e0 ]
+website: https://github.com/ok4m0e0/Scarecrow
