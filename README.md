@@ -6,4 +6,4 @@ Java Edition required. Scarecrow is compatible with Bukkit, Spigot, and Paper.
 
 ## Download Scarecrow
 
-You can obtain the latest resources from [here](https://github.com/ok4m0e0/Scarecrow/releases/latest).
+You can get the latest resources from [here](https://github.com/ok4m0e0/Scarecrow/releases/latest).
